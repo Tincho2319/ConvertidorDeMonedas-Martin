@@ -61,6 +61,7 @@ PrincipalConversor usa el archivo conversion_rates.json para leer solo las tasas
 # Elija una opción válida para realizar las conversiones
 # ***********************************************************
 
-<u>Selección de Conversión: Ingresa el número de la opción deseada.
-Conversión: Ingresa la cantidad a convertir.
-Salida: El programa muestra el resultado de la conversión y vuelve al menú. Para salir, elige la opción 7.</u>
+
+<u>Selección de Conversión: Ingresa el número de la opción deseada.</u>
+<u>Conversión: Ingresa la cantidad a convertir.</u>
+<u>Salida: El programa muestra el resultado de la conversión y vuelve al menú. Para salir, elige la opción 7.</u>
