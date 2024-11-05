@@ -59,9 +59,9 @@ PrincipalConversor usa el archivo conversion_rates.json para leer solo las tasas
 # 6) Real Brasileño >>> Dolar
 # 7) Salir
 # Elija una opción válida para realizar las conversiones
-# ***********************************************************
+# ***********************************************************<br>
 
 
-<u>Selección de Conversión: Ingresa el número de la opción deseada.</u>
-<u>Conversión: Ingresa la cantidad a convertir.</u>
-<u>Salida: El programa muestra el resultado de la conversión y vuelve al menú. Para salir, elige la opción 7.</u>
+Selección de Conversión: Ingresa el número de la opción deseada.<br>
+Conversión: Ingresa la cantidad a convertir.<br>
+<u>Salida: El programa muestra el resultado de la conversión y vuelve al menú. Para salir, elige la opción 7.<br>
